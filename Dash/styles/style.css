@@ -1,0 +1,23 @@
+
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+
+.headerd{
+    display: flex;
+    flex-direction: rows;
+    justify-content: right;
+    
+}
+
+.ddd {
+    display: flex;
+    width: 80%;
+    background-color: aqua;
+    display: flex;
+    flex-direction: rows;
+    justify-content: flex-end;
+}
