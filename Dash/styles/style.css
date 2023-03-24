@@ -10,6 +10,10 @@
 
 }
 
+.master{
+    background-color: #F5F5F5;
+}
+
 
 
 
@@ -422,3 +426,35 @@ table tr{
 
 
 
+
+a{
+    text-decoration: none;
+    color: #1b1b1b;
+    padding: 20px;
+    text-align: left;
+}
+
+.headerd img{
+    width: 8%;
+    height: 4vh;
+    padding: 20px 70px;
+    background-color: #1E1E2D;
+
+}
+.dash{
+    width: 15.5%;
+    height: 100vh;
+    background-color:#1E1E2D ;
+}
+.dash a, .dash i{
+    color: #FFFFFF;
+    padding: 20px 10px;
+}
+
+.dashb{
+    color: #009EF7;
+    background-color: #2fa1e22a;
+    border: none;
+    border-radius: 10px;
+    padding:10px;
+}
